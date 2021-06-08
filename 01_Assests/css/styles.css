@@ -136,6 +136,7 @@ body > main {
 #about-section {
     height: 100vh;
     position: relative;
+    margin: 20px 0 20px 0;
 }
 
 #about-section > img {
@@ -144,7 +145,7 @@ body > main {
 }
 
 .content-sub {
-    width: 75vw;
+    width: 90vw;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -198,6 +199,7 @@ body > main {
 #edu_section {
     height: 100vh;
     position: relative;
+    margin: 20px 0 20px 0;
 }
 
 #edu_section > img {
@@ -207,11 +209,11 @@ body > main {
 
 #edu-card1 {
     width: 600px;
-    height: 250px;
+    height: 208px;
     position: absolute;
     background: white;
-    top: 145px;
-    left: 310px;
+    top: 32px;
+    left: 115px;
     border: 1px solid black;
     box-shadow: 20px 20px 50px grey;
     text-align: center;
@@ -232,10 +234,10 @@ body > main {
 
 #edu-card2 {
     width: 600px;
-    height: 250px;
+    height: 208px;
     position: absolute;
-    top: 320px;
-    right: 310px;
+    top: 176px;
+    right: 67px;
     background: white;
     border: 1px solid black;
     box-shadow: 20px 20px 50px grey;
@@ -257,10 +259,10 @@ body > main {
 
 #edu-card3 {
     width: 600px;
-    height: 250px;
+    height: 208px;
     position: absolute;
-    bottom: 350px;
-    left: 309px;
+    bottom: 184px;
+    left: 116px;
     background: white;
     border: 1px solid black;
     box-shadow: 20px 20px 50px grey;
@@ -282,10 +284,10 @@ body > main {
 
 #edu-card4 {
     width: 600px;
-    height: 250px;
+    height: 208px;
     position: absolute;
-    bottom: 150px;
-    right: 310px;
+    bottom: 16px;
+    right: 67px;
     background: white;
     border: 1px solid black;
     box-shadow: 20px 20px 50px grey;
@@ -306,7 +308,7 @@ body > main {
 }
 
 .verticalBar {
-    height: 600px;
+    height: 500px;
     background: black;
     border: 1px solid black;
     position: absolute;
@@ -363,6 +365,7 @@ body > main {
 #skills_section {
     height: 100vh;
     position: relative;
+    margin: 20px 0 20px 0;
 }
 
 #skills_section > img {
@@ -373,7 +376,7 @@ body > main {
 
 #skills-main {
     width: 70vw;
-    height: 800px;
+    height: 610px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -488,6 +491,7 @@ body > main {
 #assignment-section {
     height: 100vh;
     position: relative;
+    margin: 20px 0 20px 0;
 }
 
 #assignment-section > img {
